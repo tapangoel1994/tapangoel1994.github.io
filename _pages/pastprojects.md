@@ -18,6 +18,12 @@ In my Undergraduate, I have worked on a few other topics in astronomy. In additi
 In my master's thesis, I worked on the nature of HI disks surrounding radio galaxies using the [Very Large Array](https://en.wikipedia.org/wiki/Very_Large_Array) radio telescope.
 
 Giant gaseous layers (termed ["superdisks"](https://iopscience.iop.org/article/10.1086/308230)) have been hypothesized in the past to account for the strip-like radio emission gap observed between the twin radio lobes in over a dozen relatively nearby powerful [Fanaroff - Riley II](https://en.wikipedia.org/wiki/Fanaroff%E2%80%93Riley_classification) radio galaxies. They could also provide plausible alternative explanations for a range of observations. Although several theories have been proposed for the origin of the superdisks, very little is known about their material content. If they are composed in entirity or in part of neutral gas, they may be directly detectable as neutral hydrogen gas disks in nearby radio galaxies. 
+
+<!-- <figure>
+  <figcaption>VLA image showing radio emission gap between the twin radio lobes.</figcaption>
+  <img src="images/superdisk_black1992.png"/>
+</figure> -->
+
   
 In my MS project, I searched for the [HI 21 cm](https://en.wikipedia.org/wiki/Hydrogen_line) emission from these gaps in four radio galaxies, namely 3C 227, 3C 98, 4C+32.25 and 3C 192, to understand the composition of the superdisks. For this purpose, I used the radio continuum data of these galaxies from the [Very Large Array](https://en.wikipedia.org/wiki/Very_Large_Array) in New Mexico, USA. I used [CASA](https://casa.nrao.edu/) and [AIPS](https://en.wikipedia.org/wiki/Astronomical_Image_Processing_System), to analyse the radio continuum data. It was first attempt to understand and constrain their physical properties with such a sensitive observation. The main results and conclusion were:
 
