@@ -12,10 +12,16 @@ header:
 
 # Overview
 <figure>
-  <figcaption>Overview of my research program: Visualizations show the temperature in three of my simulations on spatial scales ranging from sub-pc to 100 kpc. The projects color coded in green are related to multiphase gas mixing, which is depicted in the left image. The central image depicts the launching of a galactic wind and is related to the projects color coded in orange. The projects labeled in purple are connected to the CGM, which is shown on the right.</figcaption>
-  <img src="/images/ResearchStatementGraphic_final_LR_bigger_text_with_galaxy_blended.JPG">
+  <figcaption>Gas flows in the CGM (simulation from Lochhaas et al. 2021).</figcaption>
+  <img src="/images/cgm_flows.jpg" width="50%" height="50%"/>
 </figure>
-Broadly speaking, I study how galaxies form. To understand how galaxies grow and evolve, I study how they acquire and eject gas. These flows into and out of galaxies regulate their evolution. There are two crucial components to understanding these flows and they comprise the majority of my research focus. Within the galaxies we must understand the feedback that arises from the formation and subsequent explosion of stars, which can drive vigorous turbulence within the galaxy and powerful winds out of the galaxy. While on the outside of galaxies we must understand the dilute reservoir of material that surrounds galaxies, known as the circumgalactic medium (CGM), which is 10s to 100s of times the size of the galaxy, fills the dark matter halo, and contains as much or more material as is within the galaxy itself. Within the CGM fresh material accreted from the cosmic web interacts with galactic wind ejecta and the balance of cooling and heating determines the how much gas is able to make it down to the galaxy. This balance therefore determines how much fuel is available for ongoing star formation within the galaxy.
+
+Broadly speaking, I study how galaxies form. I try to understanding the physical processes that form the galaxies and set their evolution has been one of the central problems in astronomy. With the advent of advancements in computer simulations combined with powerful telescopes, we have slowly started to uncover the hidden mysteries of our vast universe. Recent large scale cosmological simulations have revealed that the galaxies are surrounded by a diffuse gaseous halo, known as the [circumgalactic medium (CGM)](https://www.annualreviews.org/doi/10.1146/annurev-astro-091916-055240). The interplay between different gas flows in this invisible medium is perhaps the key to a clear and accurate picture of the fate of galaxies. In a broader sense, I want to understand the -
+  * physical processes that govern the galaxy formation and evolution.
+  * the complex nature of the gas flows in the CGM and how do they depend on and impact the galaxy - - properties and its environment.
+  * methods and techniques required to analyse the large datasets coming from various telescopes.
+
+
 
 <figure>
   <img src="/images/WaterCycleCartoon.png">
