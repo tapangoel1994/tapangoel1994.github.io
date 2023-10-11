@@ -168,6 +168,9 @@
 <loc>http://localhost:4002/page-archive/</loc>
 </url>
 <url>
+<loc>http://localhost:4002/pastprojects/</loc>
+</url>
+<url>
 <loc>http://localhost:4002/personal/</loc>
 </url>
 <url>
