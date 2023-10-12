@@ -86,8 +86,8 @@ author:
   location         : "Berkeley, CA"
   employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ"
-  email            :
+  googlescholar    :  "https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ"
+  #email            :  ""
   researchgate     :  "https://www.researchgate.net/profile/Abhijeet-Anand-9"
   uri              :
   bitbucket        :

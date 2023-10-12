@@ -7,16 +7,12 @@ header:
   overlay_image: Marbled_2.jpg
 ---
 
-<!-- {% if site.author.orcid %}
-  You can also find my articles on <u><a href="{{site.author.orcid}}">my orcid profile</a>.</u>
-{% endif %} -->
+
 
 A full list of my publications can also be found [here](https://raw.githubusercontent.com/abhi0395/mycv/main-pdf/tex/pubs.pdf){:target="_blank"}, it gets automatically updated on daily basis.
 
-My publications also available on <u><a href="https://ui.adsabs.harvard.edu/public-libraries/YPXGQEsNQg-zR9R9YBYFXw">ADS</a>.</u>
+My publications also available on [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/YPXGQEsNQg-zR9R9YBYFXw){:target="_blank"}.
 
-{% include base_path %}
+See my [google scholar]({{site.author.googlescholar}}){:target="_blank"} profile.
 
-{% if site.author.googlescholar %}
-  See my <u><a href="{{site.author.googlescholar}}">google scholar </a> profile.</u>
-{% endif %}
+You can also find my articles on my [ORCID](https://orcid.org/0000-0003-2923-1585){:target="_blank"} profile.

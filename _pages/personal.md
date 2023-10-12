@@ -18,7 +18,11 @@ In my time of relaxation, I read books, mostly non-fiction. However, As I am not
 
 ## My Blog
 
-I also write amateur poetry (mostly in Hindi) and publish them on my blog. There is no personal favourite genre yet. I just prefer to write whatever comes to my mind and has some value in it for me and my readers. Have a look at my [blog](https://baryonicpoet.wordpress.com/). Your comments and feedback are appreciated. Thank you for your time.
+I also write amateur poetry (mostly in Hindi) and publish them on my [blog](https://baryonicpoet.wordpress.com/). There is no personal favourite genre yet. I just prefer to write whatever comes to my mind and has some value in it for me and my readers. Have a look at my blog. Your comments and feedback are appreciated. Thank you for your time.
+
+## My love for music
+
+I am an avid listener of old Hindi songs. I am a big fan of [ghazals](https://en.wikipedia.org/wiki/Ghazal) and [hindustani classical music](https://en.wikipedia.org/wiki/Hindustani_classical_music). In my free time, I still try to play [bansuri](https://en.wikipedia.org/wiki/Bansuri), a classical bamboo musical instrument. However, I am a very amateur at it and try to learn some tips and tricks from youtube.
 
 
 
