@@ -31,11 +31,13 @@ In simple terms, the ["cosmic baryon cycle"](https://arxiv.org/abs/2011.01935) i
 
 
 ## Multiphase Circumgalactic Medium in Observations
+As described above, the CGM plays a pivotal role in galaxy formation but it is very challenging to study it observationally. The CGM is very diffuse (having low densities, $n\sim 10^{-3} \,cm^{-3}$, for comparison air density on earth is about $10^{19} \,cm^{-3}$) and the temperature can range from $\sim 10^4\, K$ to $10^7\, K$, therefore it is excidingly hard to observe in emission as emission flux is directly proprotinal to the gas density. However, with the advent of groundbreaking space and ground based telescopes it can be studied in absorption against a bright background object.
+
 In my PhD thesis, I explored the nature of the complex gas flows in the galaxies' circumgalactic medium (see figure at the top) using absorption lines detected in the spectra of background [Quasars](https://en.wikipedia.org/wiki/Quasar). My goal was to constrain the physical properties of these gas flows with the absorption lines that trace different phases in the CGM. [The setup is the following:](/images/my_cgm_process.png) when the light emanating from a bright background source (e.g., quasar) passes through the CGM of a foreground galaxy, it can get absorbed and cause absorption dips in the spectrum at redshifts smaller than the quasar redshift.  
   
-The different absorption lines can trace different phases and physical processes in the CGM and help us understand their connection to galaxy properties and its environment. For e.g., MgII (Mg$^{+}$) and FeII (Fe$^{+}$) are tracers of the cold phase ($T \sim 10^4$ K) of CGM, while CIV (C$^{3+}$) traces the warm-hot ($T \sim 10^5$ K) CGM. In my project, I have explored the nature and origin of MgII absorbers in the CGM of star-forming and passive galaxies by characterizing their spatial distribution. Understanding the connection between this gas and the galactic properties and its environment does provide more insights into the physical processes governing galaxy formation and evolution.
+The different absorption lines can trace [different phases](/images/absorber_phase.jpg) and physical processes in the CGM and help us understand their connection to galaxy properties and its environment. For e.g., MgII (Mg$^{+}$) and FeII (Fe$^{+}$) are tracers of the cold phase ($T \sim 10^4\, K$) of CGM, while CIV (C$^{3+}$) traces the warm-hot ($T \sim 10^5\,K$) CGM. In my project, I have explored the nature and origin of MgII absorbers in the CGM of star-forming and passive galaxies by characterizing their spatial distribution. Understanding the connection between this gas and the galactic properties and its environment does provide more insights into the physical processes governing galaxy formation and evolution.
 
-<figure>
+<!-- <figure>
   <img src="/images/Multiphase_Winds_Schematic.png">
   <figcaption> Schematic overview of Multiphase Galactic Winds from Fielding & Bryan (2021). A high res pdf can be found <u><a href="http://dfielding14.github.io/images/Multiphase_Winds_Schematic.pdf">here</a>.</u>. This graphic was made in collaboration with Lucy Reading-Ikkanda.</figcaption>
 </figure> 
@@ -63,21 +65,21 @@ In order to isolate these crucial processes my collaborators (Eliot Quataert, Cl
 <figure>
   <img src="/images/Clustered_SNe_mixed_strip_4panel_Sig30_Mcl45_1pc_3_3_23Myr_zoom_panel.png">
   <figcaption>Slices of temperature, density, velocity, and cooling rate at 2 times through the ISM of a galaxy with a massive cluster of SNe in the process of going off and launching a wind. This is from Fielding et al. (2018).</figcaption>
-</figure>
+</figure> -->
 
-### Plasmoid Mediated Magnetic Reconnection in the ISM
-<figure>
+## New methods of galaxy spectral fitting redshift estimation
+<!-- <figure>
   <img src="/images/ISM_Plasmoid.png">
   <figcaption>Volume rendering of the temperature and magnetic fields in a patch of the turbulent, thermally unstable ISM. The magnetic fields commonly exhibit clear helical patterns, which are signs of the plasmoid instability and the associated fast magnetic reconnection. This is from Fielding et al. (2022b).</figcaption>
-</figure>
+</figure> -->
 
 
-### Protoplanetary Disks
+<!-- ### Protoplanetary Disks
 The Kepler mission found many Jupiter mass planets with very short orbital periods (P<10 days). How these "hot Jupiters" migrated to such close-in orbits is debated. Observations of non-zero stellar obliquity---the angle between the host star's spin axis and the hot Jupiter's orbital axis---seemed to favor orbital angular momentum loss due to tidal dissipation from the star-planet interaction during close periastron passages induced by torques from a distant third body (Fabrycky and Tremain 2007). However, using hydrodynamic and magnetohydrodynamic simulations of protostar formation, I demonstrated that a wide range of stellar obliquities may be produced as a byproduct of forming a star within a turbulent environment. I developed a simple semi-analytic model that reveals this connection between the turbulent motions and the orientation of a star and its disk. Our results are consistent with the observed obliquity distribution of hot Jupiters implying that the misaligned hot Jupiters may have instead migration due to tidal dissipation in the disk (Goldreich and Tremaine 1980). We have also applied this same concept to explain the observed misalignment of protostellar binaries outflows (Offner et al. 2016).
 
 <figure>
   <img src="/images/threepanel_misaligned_MHD_disk.png">
   <figcaption>Three views of the density of a protostellar disk that formed around a protostar in an MHD simulation. The line shows the direction of the star's angular momentum, which is misaligned from the disk's. This is from Fielding et al. (2015).</figcaption>
-</figure>
+</figure> -->
 
 

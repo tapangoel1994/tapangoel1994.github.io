@@ -19,6 +19,16 @@ In my master's thesis, I worked on the nature of HI disks surrounding radio gala
 
 Giant gaseous layers (termed ["superdisks"](https://iopscience.iop.org/article/10.1086/308230)) have been hypothesized in the past to account for the strip-like radio emission gap observed between the twin radio lobes in over a dozen relatively nearby powerful [Fanaroff - Riley II](https://en.wikipedia.org/wiki/Fanaroff%E2%80%93Riley_classification) radio galaxies. They could also provide plausible alternative explanations for a range of observations. Although several theories have been proposed for the origin of the superdisks, very little is known about their material content. If they are composed in entirity or in part of neutral gas, they may be directly detectable as neutral hydrogen gas disks in nearby radio galaxies. 
 
+<figure>
+<p float="left">
+  <img src="/images/superdisk_black1992.png" style="width:45%; border:1;">
+  <img src="/images/radio_emission_anand2020.png" style="width:45%; border:1;">
+  <p style="text-align: center;">
+<figcaption>Superdisk in radio emission (left, from Black et al. 1992), stacked image of radio galaxies to detect HI emission (right, from Anand et al. 2020).</figcaption>
+</p>
+</p>
+</figure>
+
 <!-- <figure>
   <figcaption>VLA image showing radio emission gap between the twin radio lobes.</figcaption>
   <img src="images/superdisk_black1992.png"/>
