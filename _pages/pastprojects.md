@@ -21,8 +21,8 @@ Giant gaseous layers (termed ["superdisks"](https://iopscience.iop.org/article/1
 
 <figure>
 <p float="left">
-  <img src="/images/superdisk_black1992.png" style="width:45%; border:1;">
-  <img src="/images/radio_emission_anand2020.png" style="width:45%; border:1;">
+  <img src="/images/previous_works/superdisk_black1992.png" style="width:45%; border:1;">
+  <img src="/images/previous_works/radio_emission_anand2020.png" style="width:45%; border:1;">
   <p style="text-align: center;">
 <figcaption>Superdisk in radio emission (left, from Black et al. 1992), stacked image of radio galaxies to detect HI emission (right, from Anand et al. 2020).</figcaption>
 </p>

@@ -16,8 +16,8 @@ header:
 <figcaption>Gas flows in the CGM (simulation from Lochhaas et al. 2021, left and Peeples et al. 2015, right).</figcaption>
 </p>
 <p float="left">
-  <img src="/images/cgm_flows.jpg" style="width:50%; border:1;">
-  <img src="/images/cgm_ARAA_Nature15_peeples.jpg" style="width:45%; border:1;">
+  <img src="/images/cgm/cgm_flows.jpg" style="width:50%; border:1;">
+  <img src="/images/cgm/cgm_ARAA_Nature15_peeples.jpg" style="width:45%; border:1;">
 </p>
 </figure>
 
@@ -33,9 +33,9 @@ In simple terms, the ["cosmic baryon cycle"](https://arxiv.org/abs/2011.01935) i
 ## Multiphase Circumgalactic Medium in Observations
 As described above, the CGM plays a pivotal role in galaxy formation but it is very challenging to study it observationally. The CGM is very diffuse (having low densities, $n\sim 10^{-3} \,cm^{-3}$, for comparison air density on earth is about $10^{19} \,cm^{-3}$) and the temperature can range from $\sim 10^4\, K$ to $10^7\, K$, therefore it is excidingly hard to observe in emission as emission flux is directly proprotinal to the gas density. However, with the advent of groundbreaking space and ground based telescopes it can be studied in absorption against a bright background object.
 
-In my PhD thesis, I explored the nature of the complex gas flows in the galaxies' circumgalactic medium (see figure at the top) using absorption lines detected in the spectra of background [Quasars](https://en.wikipedia.org/wiki/Quasar). My goal was to constrain the physical properties of these gas flows with the absorption lines that trace different phases in the CGM. [The setup is the following:](/images/my_cgm_process.png) when the light emanating from a bright background source (e.g., quasar) passes through the CGM of a foreground galaxy, it can get absorbed and cause absorption dips in the spectrum at redshifts smaller than the quasar redshift.  
+In my PhD thesis, I explored the nature of the complex gas flows in the galaxies' circumgalactic medium (see figure at the top) using absorption lines detected in the spectra of background [Quasars](https://en.wikipedia.org/wiki/Quasar). My goal was to constrain the physical properties of these gas flows with the absorption lines that trace different phases in the CGM. [The setup is the following:](/images/cgm/my_cgm_process.png) when the light emanating from a bright background source (e.g., quasar) passes through the CGM of a foreground galaxy, it can get absorbed and cause absorption dips in the spectrum at redshifts smaller than the quasar redshift.  
   
-The different absorption lines can trace [different phases](/images/absorber_phase.jpg) and physical processes in the CGM and help us understand their connection to galaxy properties and its environment. For e.g., MgII (Mg$^{+}$) and FeII (Fe$^{+}$) are tracers of the cold phase ($T \sim 10^4\, K$) of CGM, while CIV (C$^{3+}$) traces the warm-hot ($T \sim 10^5\,K$) CGM. In my project, I have explored the nature and origin of MgII absorbers in the CGM of star-forming and passive galaxies by characterizing their spatial distribution. Understanding the connection between this gas and the galactic properties and its environment does provide more insights into the physical processes governing galaxy formation and evolution.
+The different absorption lines can trace [different phases](/images/cgm//absorber_phase.jpg) and physical processes in the CGM and help us understand their connection to galaxy properties and its environment. For e.g., MgII (Mg$^{+}$) and FeII (Fe$^{+}$) are tracers of the cold phase ($T \sim 10^4\, K$) of CGM, while CIV (C$^{3+}$) traces the warm-hot ($T \sim 10^5\,K$) CGM. In my project, I have explored the nature and origin of MgII absorbers in the CGM of star-forming and passive galaxies by characterizing their spatial distribution. Understanding the connection between this gas and the galactic properties and its environment does provide more insights into the physical processes governing galaxy formation and evolution.
 
 <!-- <figure>
   <img src="/images/Multiphase_Winds_Schematic.png">
