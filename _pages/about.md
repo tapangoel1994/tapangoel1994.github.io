@@ -21,3 +21,7 @@ My name is Abhijeet Anand (Hindi: अभिजीत आनंद, pronounced as
 
 Get in touch with me at <span style="color:blue">AbhijeetAnand@lbl.gov</span>
 
+## Looking for short projects
+
+If you're a local undergrad (in the Bay Area) looking for short-term projects, have a look at my [research](/research) and if interests you, feel free to write to me with your interests, availability and level of programming. I have a few projects in mind and would be happy to discuss with you. 
+

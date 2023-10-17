@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  overlay_image: Marbled_2.jpg
+  overlay_image: galaxy7.jpg
 ---
 
 

@@ -23,6 +23,9 @@ main:
 
   - title: "Past Projects"
     url: /pastprojects/
+
+  - title: "SDSS MgII Catalogue"
+    url: /sdssmgii/
     
   - title: "Personal"
     url: /personal/

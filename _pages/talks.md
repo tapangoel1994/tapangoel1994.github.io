@@ -4,7 +4,7 @@ title: "Presentations"
 permalink: /talks/
 author_profile: true
 header:
-  overlay_image: marbled_4.jpg
+  overlay_image: galaxy3.jpg
 ---
 
 {% include base_path %}

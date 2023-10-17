@@ -4,7 +4,7 @@ title: "Past Projects"
 permalink: /pastprojects/
 author_profile: true
 header:
-  overlay_image: marbled_4.jpg
+  overlay_image: galaxy6.jpg
 ---
 
 {% include base_path %}
