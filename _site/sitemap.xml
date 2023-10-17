@@ -204,6 +204,9 @@
 <loc>http://localhost:4002/terms/</loc>
 </url>
 <url>
+<loc>http://localhost:4002/usefullinks/</loc>
+</url>
+<url>
 <loc>http://localhost:4002/markdown_generator/</loc>
 </url>
 <url>
