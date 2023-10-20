@@ -15,14 +15,14 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-  - title: "Presentations"
-    url: /talks/    
+  # - title: "Presentations"
+  #   url: /talks/    
 
   - title: "CV"
     url: /cv/
 
-  - title: "Past Projects"
-    url: /pastprojects/
+  # - title: "Past Projects"
+  #   url: /pastprojects/
     
   - title: "Personal"
     url: /personal/

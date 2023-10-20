@@ -78,7 +78,7 @@
 <loc>http://localhost:4002/page-archive/</loc>
 </url>
 <url>
-<loc>http://localhost:4002/pastprojects/</loc>
+<loc>http://localhost:4002/pages/pastprojects</loc>
 </url>
 <url>
 <loc>http://localhost:4002/personal/</loc>

@@ -85,3 +85,7 @@ With the advent of ongoing large spectroscopic surveys, it has increasingly beco
 In my current work <span style="color:blue">(Anand+ in prep.)</span>, I am trying to combine the PCA speed and efficiency with an algorithm that uses a set of physical parameters of astronomical objects to deal with such overfitting or unphysical fitting where PCA fails. For this, I have been working on generating synthetic galaxy spectra (also known as archetypes) and then using PCA to run with those physical spectra and model the observed spectra. Though it is slower than the classic PCA, it resolves the problems of unphysical models and overfitting. This method is extremely useful for DESI and upcoming spectroscopic surveys such as 4MOST, WEAVE and LSST. The [github repository](https://github.com/desihub/redrock/tree/abhijeet_per_camera_gpu) details out the algorithm and code. 
 
 
+## Past research insterests and projects
+
+In my Undergraduate, I have worked on a few other topics in astronomy. In addition to that, I also explored some topics in high energy physics and computational nonlinear dynamics. I still like those topics and would love to explore them in future. You can find more about my past projects [here](/pages/pastprojects).
+
