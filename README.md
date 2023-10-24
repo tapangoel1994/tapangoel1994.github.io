@@ -1,7 +1,7 @@
 ## Abhijeet Anand's website
 
 Hi there! 
-Welcome, this is my academic website. The website is based on [academicpages](https://github.com/academicpages/academicpages.github.io) template. Below are some details on licensing and how to use this template.
+Welcome, this is my academic website. The website is based on [academicpages](https://github.com/academicpages/academicpages.github.io) template. Below are some details on licensing and how to use this template (copied from academicpages).
 
 ## Details
 
