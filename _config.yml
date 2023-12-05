@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhijeet Anand"
+title                    : "Tapan Goel"
 title_separator          : "-"
-name                     : &name "Abhijeet Anand"
+name                     : &name "Tapan Goel"
 description              : &description "personal description"
 url                      : https://abhi0395.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "abhi0395/abhi0395.github.io"
+repository               : "tapangoel1994/tapangoel1994.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abhijeet Anand, PhD"
+  name             : "Tapan Goel, PhD"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Scientist at Berkeley National Lab"
-  location         : "Berkeley, CA"
+  bio              : "Postdoctoral Scientist at University of Maryland College Park"
+  location         : "College Park, MD"
   employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  "https://scholar.google.com/citations?hl=en&user=MfOuq1IAAAAJ"
-  #email            :  ""
+  email            :  "tgoel36@umd.edu"
   researchgate     :  "https://www.researchgate.net/profile/Abhijeet-Anand-9"
   uri              :
   bitbucket        :
