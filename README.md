@@ -1,6 +1,6 @@
-# Abhijeet Anand's website
+# Tapan Goel's website
 
-[https://abhi0395.github.io/](https://abhi0395.github.io/)
+[https://tapangoel1994.github.io/](https://tapangoel1994.github.io/)
 
 Hi there! 
 Welcome, this is my academic website. The website is based on [academicpages](https://github.com/academicpages/academicpages.github.io) template. Below are some details on licensing and how to use this template (copied from academicpages).
