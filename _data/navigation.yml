@@ -15,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-  # - title: "Presentations"
-  #   url: /talks/    
+   - title: "Presentations"
+     url: /talks/    
 
   - title: "CV"
     url: /cv/
@@ -24,11 +24,11 @@ main:
   # - title: "Past Projects"
   #   url: /pastprojects/
     
-  - title: "Personal"
-    url: /personal/
+  #- title: "Personal"
+  #  url: /personal/
   
-  - title: "For Scientists"
-    url: /sdssmgii/
+  #- title: "For Scientists"
+  #  url: /sdssmgii/
 
-  - title: "Useful Links"
-    url: /usefullinks/
+  #- title: "Useful Links"
+  #  url: /usefullinks/
