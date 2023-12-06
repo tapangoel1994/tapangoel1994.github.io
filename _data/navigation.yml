@@ -6,29 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-  # - title: "Visualizations"
-  #   url: /movies/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Research"
+    url: /research/
 
-   - title: "Presentations"
-     url: /talks/    
-
-  - title: "CV"
-    url: /cv/
-
-  # - title: "Past Projects"
-  #   url: /pastprojects/
-    
-  #- title: "Personal"
-  #  url: /personal/
-  
-  #- title: "For Scientists"
-  #  url: /sdssmgii/
-
-  #- title: "Useful Links"
-  #  url: /usefullinks/
+  - title: "Publications"
+    url: /publications/
