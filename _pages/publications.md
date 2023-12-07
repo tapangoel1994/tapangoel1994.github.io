@@ -19,5 +19,16 @@ The freshwater cnidarian Hydra can regenerate from wounds, small tissue fragme
 Answers to mechanistic questions about biological phenomena require fluency in a variety of molecular biology techniques and physical concepts. Here, we present an interdisciplinary approach to introducing undergraduate students to an important problem in the areas of animal behavior and neuroscience—the neuronal control of animal behavior. In this lab module, students explore planarian behavior by quantitative image and data analysis with freely available software and low-cost resources. Planarians are ?1–2-cm-long aquatic free-living flatworms famous for their regeneration abilities. They are inexpensive and easy to maintain, handle, and perturb, and their fairly large size allows for image acquisition with a webcam, which makes this lab module accessible and scalable. Our lab module integrates basic physical concepts such as center of mass, velocity and speed, periodic signals, and time series analysis in the context of a biological system. The module is designed to attract students with diverse disciplinary backgrounds. It challenges the students to form hypotheses about behavior and equips them with a basic but broadly applicable toolkit to achieve this quantitatively. We give a detailed description of the necessary resources and show how to implement the module. We also provide suggestions for advanced exercises and possible extensions. Finally, we provide student feedback from a pilot implementation.
 ---
 
+## Let it Rip: the Mechanics of Self-bisection in Asexual Planarians Determines Their Population Reproductive Strategies
+### Tapan Goel, Danielle Ireland, Vir Shetty, Christina Rabeler, Patrick H Diamond, Eva-Maria S Collins. _Physical Biology_ .(2021)
+#### Abstract:
+Asexual freshwater planarians reproduce by transverse bisection (binary fission) into two pieces. This process produces a head and a tail, which fully regenerate within 1–2 weeks. How planarians split into two offspring—using only their musculature and substrate traction—is a challenging biomechanics problem. We found that three different species, Dugesia japonica, Girardia tigrina and Schmidtea mediterranea, have evolved three different mechanical solutions to self-bisect. Using time lapse imaging of the fission process, we quantitatively characterize the main steps of division in the three species and extract the distinct and shared key features. Across the three species, planarians actively alter their body shape, regulate substrate traction, and use their muscles to generate tensile stresses large enough to overcome the ultimate tensile strength of the tissue. Moreover, we show that how each planarian species divides dictates how resources are split among its offspring. This ultimately determines offspring survival and reproductive success. Thus, heterospecific differences in the mechanics of self-bisection of individual worms explain the observed differences in the population reproductive strategies of different planarian species.
+---
+
+## Linalool Acts as a Fast and Reversible Anesthetic in Hydra
+
+
+
+
 
 
