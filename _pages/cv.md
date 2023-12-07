@@ -36,33 +36,29 @@ Education
   * Advisor: Dr. Vishwesha Guttal
   * Thesis: Coarse-grained analysis of a collective movement model motivated from experiments with fish.
   
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2015-2016: Undergraduate Researcher, Center for Ecological Sciences, Indian Institute of Science
+  * Advisor: Dr. Vishwesha Guttal
+  * Analyzed fish tracking data to develop Fokker-Planck equations and agent based models of collective movement in fish.
+* 2014: Summer Intern, Simons Center for the Study of Living Machines, National Center for Biological Sciences
+  * Advisor: Dr. Sandeep Krishna
+  * Developed coupled ODE models for gene networks consisting of 2,3 and 4 nodes following Michaelis–Menten kinetics to identify minimal circuits that robustly generated an adaptive response
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2021-2022 Graduate Writing Consultant, University of California San Diego
+  * Conducting workshops on various aspects of graduate writing. Providing one-on-one peer consultations to graduate students working on a range of writing projects.
+* 2021 Summer Graduate Teaching Scholar, University of California San Diego
+  * Taught PHYS 1B (Introductory Electricity and Magnetism) to a class of about 100 undergraduates as the Instructor of Record.
+* 2018-2022 Graduate Teaching Assistant, Department of Physics, University of California San Diego
+* 2018-2022 Tutor, Department of Physics, University of California San Diego
   
-Service and leadership
+Science Outreach
 ======
-* Currently signed in to 43 different slack teams
+* 2018-present Skype a Scientist
+  * Working as a participant scientist to bring my research and the experience of doing it to middle and high school students through video conferencing.
+* March 2014 - Feb 2015 Pravega 2015, the Annual National Level Science, Technology and Cultural Festival Hosted by IISc
+  * Managed a team of 100 student volunteers.We organized over 30 science quizzes, technology workshops, guest lectures and, musical and dance performances with a budget of $40,000. The event drew over 2000 college and high school students.
+* 2013 Regime Shifts in Ecological Systems
+  * Worked with a colleague to build an interactive exhibit explaining early warning signals for ecological shifts in semi-arid forests.The exhibit was part of the winning entry for "Mathematics of Planet Earth" organised by ICTS-TIFR and was displayed in museums across India.
