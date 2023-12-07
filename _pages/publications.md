@@ -5,6 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-
-# Under construction
+You can find my publications on google scholar [here](https://scholar.google.com/citations?user=563V9eQAAAAJ&hl=en&oi=ao). 
