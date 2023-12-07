@@ -5,27 +5,37 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find the complete list of my publication on [google scholar](https://scholar.google.com/citations?user=563V9eQAAAAJ&hl=en&oi=ao)
+You can find the complete list of my publication on [google scholar](https://scholar.google.com/citations?user=563V9eQAAAAJ&hl=en&oi=ao).
+Below are the titles and abstracts of the papers:
 
 ## Mechano-Chemical Coupling in Hydra Regeneration and Patterning 
 ### Rui Wang, April L Bialas, Tapan Goel, Eva-Maria S Collins. _Integrative and Comparative Biology_ .(2023)
-#### Abstract:
+Abstract:
 The freshwater cnidarian Hydra can regenerate from wounds, small tissue fragments and even from aggregated cells. This process requires the de novo development of a body axis and oral–aboral polarity, a fundamental developmental process that involves chemical patterning and mechanical shape changes. Gierer and Meinhardt recognized that Hydra’s simple body plan and amenability to in vivo experiments make it an experimentally and mathematically tractable model to study developmental patterning and symmetry breaking. They developed a reaction-diffusion model, involving a short-range activator and a long-range inhibitor, which successfully explained patterning in the adult animal. In 2011, HyWnt3 was identified as a candidate for the activator. However, despite the continued efforts of both physicists and biologists, the predicted inhibitor remains elusive. Furthermore, the Gierer-Meinhardt model cannot explain de novo axis formation in cellular aggregates that lack inherited tissue polarity. The aim of this review is to synthesize the current knowledge on Hydra symmetry breaking and patterning. We summarize the history of patterning studies and insights from recent biomechanical and molecular studies, and highlight the need for continued validation of theoretical assumptions and collaboration across disciplinary boundaries. We conclude by proposing new experiments to test current mechano-chemical coupling models and suggest ideas for expanding the Gierer-Meinhardt model to explain de novo patterning, as observed in Hydra aggregates. The availability of a fully sequenced genome, transgenic fluorescent reporter strains, and modern imaging techniques, that enable unprecedented observation of cellular events in vivo, promise to allow the community to crack Hydra’s secret to patterning.
----
+
 
 ## Quantifying Planarian Behavior as an Introduction to Object Tracking and Signal Processing
 ### Nicole C Stowell, Tapan Goel, Vir Shetty, Jocelyne Noveral, Eva-Maria S Collins. _The Biophysicist_ .(2021)
-#### Abstract:
+Abstract:
 Answers to mechanistic questions about biological phenomena require fluency in a variety of molecular biology techniques and physical concepts. Here, we present an interdisciplinary approach to introducing undergraduate students to an important problem in the areas of animal behavior and neuroscience—the neuronal control of animal behavior. In this lab module, students explore planarian behavior by quantitative image and data analysis with freely available software and low-cost resources. Planarians are ?1–2-cm-long aquatic free-living flatworms famous for their regeneration abilities. They are inexpensive and easy to maintain, handle, and perturb, and their fairly large size allows for image acquisition with a webcam, which makes this lab module accessible and scalable. Our lab module integrates basic physical concepts such as center of mass, velocity and speed, periodic signals, and time series analysis in the context of a biological system. The module is designed to attract students with diverse disciplinary backgrounds. It challenges the students to form hypotheses about behavior and equips them with a basic but broadly applicable toolkit to achieve this quantitatively. We give a detailed description of the necessary resources and show how to implement the module. We also provide suggestions for advanced exercises and possible extensions. Finally, we provide student feedback from a pilot implementation.
----
+
 
 ## Let it Rip: the Mechanics of Self-bisection in Asexual Planarians Determines Their Population Reproductive Strategies
 ### Tapan Goel, Danielle Ireland, Vir Shetty, Christina Rabeler, Patrick H Diamond, Eva-Maria S Collins. _Physical Biology_ .(2021)
-#### Abstract:
+Abstract:
 Asexual freshwater planarians reproduce by transverse bisection (binary fission) into two pieces. This process produces a head and a tail, which fully regenerate within 1–2 weeks. How planarians split into two offspring—using only their musculature and substrate traction—is a challenging biomechanics problem. We found that three different species, Dugesia japonica, Girardia tigrina and Schmidtea mediterranea, have evolved three different mechanical solutions to self-bisect. Using time lapse imaging of the fission process, we quantitatively characterize the main steps of division in the three species and extract the distinct and shared key features. Across the three species, planarians actively alter their body shape, regulate substrate traction, and use their muscles to generate tensile stresses large enough to overcome the ultimate tensile strength of the tissue. Moreover, we show that how each planarian species divides dictates how resources are split among its offspring. This ultimately determines offspring survival and reproductive success. Thus, heterospecific differences in the mechanics of self-bisection of individual worms explain the observed differences in the population reproductive strategies of different planarian species.
----
+
 
 ## Linalool Acts as a Fast and Reversible Anesthetic in Hydra
+### Tapan Goel, Rui Wang, Sara Martin, Elizabeth Lanphear, Eva-Maria S Collins. _PLoS One_ .(2019)
+Abstract:
+The ability to make transgenic Hydra lines has allowed for quantitative in vivo studies of Hydra regeneration and physiology. These studies commonly include excision, grafting and transplantation experiments along with high-resolution imaging of live animals, which can be challenging due to the animal’s response to touch and light stimuli. While various anesthetics have been used in Hydra studies, they tend to be toxic over the course of a few hours or their long-term effects on animal health are unknown. Here, we show that the monoterpenoid alcohol linalool is a useful anesthetic for Hydra. Linalool is easy to use, non-toxic, fast acting, and reversible. It has no detectable long-term effects on cell viability or cell proliferation. We demonstrate that the same animal can be immobilized in linalool multiple times at intervals of several hours for repeated imaging over 2–3 days. This uniquely allows for in vivo imaging of dynamic processes such as head regeneration. We directly compare linalool to currently used anesthetics and show its superior performance. Linalool will be a useful tool for tissue manipulation and imaging in Hydra research in both research and teaching contexts.
+
+## Mouth Function Determines the Shape Oscillation Pattern in Regenerating Hydra Tissue Spheres
+### Rui Wang, Tapan Goel, Kate Khazoyan, Ziad Sabry, Heng J Quan, Patrick H Diamond, Eva-Maria S Collins. _Biophysical Journal_ .(2019)
+
+Abstract:
+Hydra is a small freshwater polyp capable of regeneration from small tissue pieces and from aggregates of cells. During regeneration, a hollow bilayered sphere is formed that undergoes osmotically driven shape oscillations of inflation and rupture. These oscillations are necessary for successful regeneration. Eventually, the oscillating sphere breaks rotational symmetry along the future head-foot axis of the animal. Notably, the shape oscillations show an abrupt shift from large-amplitude, long-period oscillations to small-amplitude, short-period oscillations. It has been widely accepted that this shift in oscillation pattern is linked to symmetry breaking and axis formation, and current theoretical models of Hydra symmetry breaking use this assumption as a model constraint. However, a mechanistic explanation for the shift in oscillation pattern is lacking. Using in vivo manipulation and imaging, we quantified the shape oscillation dynamics and dissected the timing and triggers of the pattern shift. Our experiments demonstrate that the shift in the shape oscillation pattern in regenerating Hydra tissue pieces is caused by the formation of a functional mouth and not by shape symmetry breaking as previously assumed. Thus, model assumptions must be revised in light of these new experimental data, which can be used to constrain and validate improved theoretical models of pattern formation in Hydra.
 
 
 
