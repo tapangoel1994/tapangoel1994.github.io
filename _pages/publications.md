@@ -1,4 +1,4 @@
-![image](https://github.com/tapangoel1994/tapangoel1994.github.io/assets/13145091/341579b3-3701-4f6f-9bc9-540588e06342)---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
