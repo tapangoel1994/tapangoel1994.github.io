@@ -11,6 +11,9 @@ UMD MathBio Seminar, November 21, 2023.
 ## Eco-Evolutionary Dynamics of Temperate Phages in Periodically Changing Environments
 Confect Symposium, August 23, 2023.
 
+## Population dynamics of temperate phage and the potential emergence of phage-host coalitions
+American Mathematical Society Southeastern Section Meeting, March 19, 2023
+
 ## How Short Range Forces Generate Long Range Order in Extreme Tissue Deformations 
 Americal Physical Society March Meeting, March 2022
 
