@@ -14,4 +14,4 @@ I am also really interested in (bio)physics education. As a [Summer Graduate Tea
 
 I am currently a postdoctoral scientist at the University of Maryland College Park in the [Weitz Group](https://weitzgroup.umd.edu/). Before joining the Weitz group, I was a PhD student at the University of California San Diego working with Dr. Eva-Maria Collins (now at [Swarthmore college](https://www.swarthmore.edu/profile/eva-maria-collins)) and [Dr. Patrick Diamond](https://fapp.ucsd.edu/memberprofile_diamondph.html). I completed my undergraduate degree in Physics with a minor in biology from the Indian Institute of Science and did my undergraduate thesis work under the supervision of [Dr. Vishwesha Guttal](https://teelabiisc.wordpress.com/).
 
-You can find out more about my work under the research tab. You can also reach me by email at [tgoel36@umd.edu](mailto:tgoel36@umd.edu).
+You can find out more about my work under [research](https://tapangoel1994.github.io/research/). You can also reach me by email at [tgoel36@umd.edu](mailto:tgoel36@umd.edu).
