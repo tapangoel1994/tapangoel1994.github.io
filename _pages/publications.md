@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find the complete list of my publication on [google scholar](https://scholar.google.com/citations?user=563V9eQAAAAJ&hl=en&oi=ao).
+You can find the complete list of my publication on [google scholar](https://scholar.google.com/citations?user=b4GGa8EAAAAJ&hl=en).
 Below are the titles and abstracts of the papers:
 
 ## Nonlinear Elasticity and Short-range Mechanical Coupling Govern the Rate and Symmetry of Mouthopening in _Hydra_
