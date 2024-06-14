@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## About me
-I am a quantitative biologist (or more accurately, I am what happens when someone gets trained in physics but makes too many friends in the biology department :)). I am broadly interested in complex biological systems where non-linear coupling, either across scales or between system components, leads to new emergent behavior. I have studied a wide range of such systems: I started out developing stochastic differential equation models to study collective movement in fish schools, then I moved onto using wet lab experiments, microscopy and non-linear elasticity models to study  non-linear tissue mechanics and tissue regeneration in *Hydra* and in freshwater flatworms and now, I use non-linear ODE models to study the ecology and evolution of temperate viruses that infect bacteria. Despite the diversity of biological systems, the range of time and length scales involved and the different techniques, in all systems, we see emergence of complex behavior from relatively simple underlying rules. 
+I am a quantitative biologist broadly interested in complex biological systems where non-linear coupling, either across scales or between system components, leads to new emergent behavior. I have studied a wide range of such systems: I started out developing stochastic differential equation models to study collective movement in fish schools, then I moved onto using wet lab experiments, microscopy and non-linear elasticity models to study  non-linear tissue mechanics and tissue regeneration in *Hydra* and in freshwater flatworms and now, I use non-linear ODE models to study the ecology and evolution of temperate viruses that infect bacteria. Despite the diversity of biological systems, the range of time and length scales involved and the different techniques, in all systems, we see emergence of complex behavior from relatively simple underlying rules. 
 
 I am also really interested in (bio)physics education. As a [Summer Graduate Teaching Scholar](https://engagedteaching.ucsd.edu/educators/grad-students/sgts.html) in the summer of 2021 at UCSD, I was the instructor-of-record for *PHYS 1B: Electricity and Magnetism for life science majors*. I also helped develop a module to teach object tracking and basic signal processing to pre-major undergraduates at Swarthmore College. You can find the associated manuscript [here](https://meridian.allenpress.com/the-biophysicist/article/2/3/1/464616/Quantifying-Planarian-Behavior-as-an-Introduction).
 
