@@ -9,6 +9,9 @@ author_profile: true
 <!--- header: --->
 <!--- overlay_image: galaxy2.jpg --->
 
+I have worked on a variety of problems, in several different biological systems, under the broad umbrella of non-linear dynamics and complex systems. Currently, I work on theoretical models of ecology and evolution of viruses. During my PhD, I worked on biomechanics of epithelial tissues, using a combination of experiments and theory. I am not actively working in this area right now but look forward to getting back into it at some point in the future. As an undergrad, I worked on collective animal movement using mathematical models.
+
+
 <details>
   <summary><b>Ecology and evolution of temperate phages</b></summary>
 
@@ -25,3 +28,9 @@ author_profile: true
 <p>Induction of lysogens - the process of a lysogen switching back to the lytic cycle - has two consequences: Its bad for the individual lysogen since lysis involves the death of that particular lysogen but, its good for the lysogen population in general because the newly released phage particles can go onto infect new host cells creating new lysogens. So, induction is harmful at the individual level but beneficial at the population level. I am interested in how these conflicting effects at different scales impact community ecology.</p>
 
 </details>
+
+<details>
+  <summary><b>Non-linear mechanics of epithelial tissue</b></summary>
+  During my PhD, I worked on 
+<details>
+  
