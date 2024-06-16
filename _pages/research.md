@@ -29,8 +29,4 @@ I have worked on a variety of problems, in several different biological systems,
 
 </details>
 
-<details>
-  <summary><b>Non-linear mechanics of epithelial tissue</b></summary>
-  During my PhD, I worked on 
-<details>
   
