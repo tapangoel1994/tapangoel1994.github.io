@@ -10,7 +10,7 @@ author_profile: true
 <!--- overlay_image: galaxy2.jpg --->
 
 <details>
-  <summary><\b>Ecology and evolution of temperate phages</b></summary>
+  <summary><b>Ecology and evolution of temperate phages</b></summary>
 
 When we normally think of phages (viruses that exclusively infect bacteria), we only think of the lytic life cycle: The virus enters the host cell, hijacks the host machinery to make copies of itself, eventually kills the host and releases its virus offspring that go onto infect other hosts. This picture is true for phages that are obligately lytic. However, temperate phages, in addition to the lytic cycle, can undergo a lysogenic life cycle: they enter the host but instead of hijacking the host machinery, the viral genetic material integrates with that of the host and stays dormant until some internal or external trigger switches it back into the lytic cycle. In this case, the virus replicates when the host cell divides and replicates its own genome. While the lytic life cycle involves antagonism between the phage and its host, lysogeny is mutualistic - the reproductive success of the phage depends on the reproductive success of the host. Thus, temperate phages have a complicated relationship with their hosts which leads to interesting effects all the way from the molecular to the community level, across timescales ranging from virus-host encounter rates to evolutionary timescales. My current research focuses on the ecological and evolutionary consequences of this complicated relationship between temperate phages and their hosts. To do so, I use mathematical models that bridge scales - from cells to populations to communities.
 
