@@ -38,7 +38,7 @@ I have worked on a variety of problems, in several different biological systems,
   <details>
     <summary><b> Mechanics of self-bisection in planarians </b></summary>
     <figure>
-    <img src="../images/PlanarianFission.png" alt="Schematic of planarian fission across three different species" class="center" width= "500" height="500">
+    <img src="../images/PlanarianFission.png" alt="Schematic of planarian fission across three different species" class="center" width= "50%">
     <figcaption> (a) Schematics and (b) brightfield images of the fission process in <i> Dugesia japonica</i> (J-planarian), <i> Girardia tigrina </i> (G-planarian) and <i> Schmidtea mediterranea </i> (S-planarian).</figcaption>
     </figure>
     
@@ -50,7 +50,10 @@ I have worked on a variety of problems, in several different biological systems,
   <li>What decides where along the body the animal should split?</li>
   <li>What sets how many pieces the animal should split into? </li>
   </ol>
-    <p> We use live imaging to compare and contrast the kinematics of self bisection in three different planarian species. We show how they used body shape changes and substrate adhesion to generate the stresses necessary to overcome the ultimate tensile strength of the tissue. We also show how mechanical constraints affect resource allocation to the offspring produced by this self bisection process and develop predictive models to relate the number and size of the offspring to the size of the parent.</p>
+    <p> We used live imaging to compare and contrast the kinematics of self bisection in three different planarian species. We showed how they used body shape changes and substrate adhesion to generate the stresses necessary to overcome the ultimate tensile strength of the tissue. We also showed how mechanical constraints affect resource allocation to the offspring produced by this self bisection process and develop predictive models to relate the number and size of the offspring to the size of the parent.
+      <br>
+      <a href="https://doi.org/10.1088/1478-3975/ac2f29 ">Full paper here.</a>
+    </p>
 <!---xiii
 In chapter ??, we use gain-of-function and loss-of-function experiments to show how a
 transition in the period and amplitude of osmotically driven shape oscillations in regenerating
