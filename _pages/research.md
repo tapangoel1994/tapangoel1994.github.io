@@ -38,7 +38,7 @@ I have worked on a variety of problems, in several different biological systems,
   <details>
     <summary><b> Mechanics of self-bisection in planarians </b></summary>
 
-    <img src="../images/PlanarianFission.png" alt="Schematic of planarian fission across three different species" style="float:left;width:500;height:500;">
+    <img src="../images/PlanarianFission.png" alt="Schematic of planarian fission across three different species" class="center" style="float:left;width:300;height:300;">
     
     Flatworms (planarians) reproduce asexually by ripping their body into two (or more) pieces along their length. The pieces then regenerate into fully grown adults. The survival of the offspring pieces has been shown to depend on their size. There are several interesting questions one can ask about this bisection process:
     
