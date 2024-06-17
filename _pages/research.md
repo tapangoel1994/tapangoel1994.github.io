@@ -29,4 +29,31 @@ I have worked on a variety of problems, in several different biological systems,
 
 </details>
 
+
+<details>
+  <summary><b> Biomechanics of epithelial tissues in invertebrates </b></summary>
+
+  <p>Mechanical forces play a fundamental role in shaping biological structure and function. They set limits to length and timescales for these processes. In turn, the dynamical response of biochemical signalling pathways and genetic circuits to these mechanical forces create feedback loops that lead to interesting non-linear effects on the stress-strain relationship of biological materials. During my PhD, I studied consequences of these complex feedback loops at the population, organismal and tissue levels over timescales ranging from months to hours to minutes using <i>Hydra</i> and planarians as my model systems.</p>
   
+<!---xiii
+In chapter ??, we use live imaging to compare and contrast the kinematics of self bisection
+in three different planarian species. We show how they used body shape changes and substrate
+adhesion to generate the stresses necessary to overcome the ultimate tensile strength of the
+tissue. We also show how mechanical constraints affect resource allocation to the offspring
+produced by this self bisection process and develop predictive models to relate the number and
+size of the offspring to the size of the parent.
+In chapter ??, we use gain-of-function and loss-of-function experiments to show how a
+transition in the period and amplitude of osmotically driven shape oscillations in regenerating
+Hydra tissue spheres is caused by the formation of an actively regulated mouth structure.
+In chapter 2, we use a combination of experiments and mathematical modelling to study
+the dynamics of mouth opening in Hydra. We show how mechanical nearest-neighbor coupling
+can be sufficient to generate long range order over long timescales from underlying short range
+stochastic forces. We also show how anharmonic elasticity affects can modulate the long range
+order of the deformation and its timescale in non-intuitive ways.
+In appendix ??, we develop the chemical linalool as a powerful, reversible anesthetic that
+can be for imaging Hydra and performing surgical manipulations on them. We characterize the
+activity of the linalool, tested it for its short term and long term health effects on the animals
+and validated its utility in imaging and surgical applications.
+Together, these studies show how non-linear effects produced by the interplay of bio-
+chemical signalling, shape changes and mechanical stresses lead to a range of complex dynamical
+patterns and behaviors in biological systems. --->
