@@ -34,14 +34,18 @@ I have worked on a variety of problems, in several different biological systems,
   <summary><b> Biomechanics of epithelial tissues in invertebrates </b></summary>
 
   <p>Mechanical forces play a fundamental role in shaping biological structure and function. They set limits to length and timescales for these processes. In turn, the dynamical response of biochemical signalling pathways and genetic circuits to these mechanical forces create feedback loops that lead to interesting non-linear effects on the stress-strain relationship of biological materials. During my PhD, I studied consequences of these complex feedback loops at the population, organismal and tissue levels over timescales ranging from months to hours to minutes using <i>Hydra</i> and planarians as my model systems.</p>
-  
+
+  <details>
+    <summary><b> Mechanics of self-bisection in planarians </b></summary>
+    Flatworms (planarians) reproduce asexually by ripping their body into two (or more) pieces along their length. The pieces then regenerate into fully grown adults. The survival of the offspring pieces has been shown to depend on their size. There are several interesting questions one can ask about this bisection process:
+    <ol>
+  <li>How do animals generate sufficient force to rip themselves apart?</li>
+  <li>What decides when an individual should reproduces?</li>
+  <li>What decides where along the body the animal should split?</li>
+  <li>What sets how many pieces the animal should split into? </li>
+  </ol>
+    <p> We use live imaging to compare and contrast the kinematics of self bisection in three different planarian species. We show how they used body shape changes and substrate adhesion to generate the stresses necessary to overcome the ultimate tensile strength of the tissue. We also show how mechanical constraints affect resource allocation to the offspring produced by this self bisection process and develop predictive models to relate the number and size of the offspring to the size of the parent.</p>
 <!---xiii
-In chapter ??, we use live imaging to compare and contrast the kinematics of self bisection
-in three different planarian species. We show how they used body shape changes and substrate
-adhesion to generate the stresses necessary to overcome the ultimate tensile strength of the
-tissue. We also show how mechanical constraints affect resource allocation to the offspring
-produced by this self bisection process and develop predictive models to relate the number and
-size of the offspring to the size of the parent.
 In chapter ??, we use gain-of-function and loss-of-function experiments to show how a
 transition in the period and amplitude of osmotically driven shape oscillations in regenerating
 Hydra tissue spheres is caused by the formation of an actively regulated mouth structure.
