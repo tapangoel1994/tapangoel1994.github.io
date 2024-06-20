@@ -4,6 +4,8 @@ title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
+## Mechanical Control and Coordination of Mouth Opening in Hydra
+Cnidofest Zoom Seminar Series, June 19, 2024
 
 ## Eco-Evolutionary Dynamics of Temperate Phages in Periodically Changing Environments
 UMD MathBio Seminar, November 21, 2023.
