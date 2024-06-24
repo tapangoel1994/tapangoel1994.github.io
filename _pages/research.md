@@ -90,9 +90,10 @@ I have worked on a variety of problems, in several different biological systems,
       </figure>
       </a>
   
-    <i><Hydra> Hydra lacks a permanent mouth: its head epithelium is sealed. Upon neuronal activation, a mouth opens at the apex of the head which can exceed the body column diameter in seconds, allowing Hydra to ingest prey larger than itself. While the kinematics of mouth opening are well characterized, the underlying mechanism is unknown. Using a combination of experiments and mathematical modelling, we showed that while the mouth opening is triggered by neuronal signals, nearest neighbor mechanical coupling of cells is sufficient to coordinate it. We also showed that the non-linear elasticity of epithelial tissue makes mouth opening wider and faster, contrary to what one might expect. Using the mouth opening process as a model, we showed that in the absence of long-range chemical or neuronal signals, short-range mechanical coupling is sufficient to produce long-range order in tissue deformations.
+    <i>Hydra</i> lacks a permanent mouth: its head epithelium is sealed. Upon neuronal activation, a mouth opens at the apex of the head which can exceed the body column diameter in seconds, allowing Hydra to ingest prey larger than itself. While the kinematics of mouth opening are well characterized, the underlying mechanism is unknown. Using a combination of experiments and mathematical modelling, we showed that while the mouth opening is triggered by neuronal signals, nearest neighbor mechanical coupling of cells is sufficient to coordinate it. We also showed that the non-linear elasticity of epithelial tissue makes mouth opening wider and faster, contrary to what one might expect. Using the mouth opening process as a model, we showed that in the absence of long-range chemical or neuronal signals, short-range mechanical coupling is sufficient to produce long-range order in tissue deformations.
     <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2123">Full article here.</a>
     
+</details>
 </details>
 
  <details>
