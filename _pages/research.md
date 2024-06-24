@@ -98,4 +98,7 @@ I have worked on a variety of problems, in several different biological systems,
 
 <details>
    <summary><b>Linalool as an anesthetic for <i>Hydra</i></b></summary>
+  During the various <i>Hydra</i> related projects I worked on, we constantly came up against trying to immobilize the animals for 'surgeries' and for imaging without significantly affecting the long-term health of the animals. While various anesthetics had been used in <i>Hydra</i> studies in the past, they tended to be toxic over the course of a few hours or their long-term effects on animal health are unknown. We found that the monoterpenoid alcohol linalool is a useful anesthetic for <i>Hydra</i>. Linalool is easy to use, non-toxic, fast acting, and reversible. It has no detectable long-term effects on cell viability or cell proliferation. We demonstrated that the same animal could be immobilized in linalool multiple times at intervals of several hours for repeated imaging over 2–3 days. This uniquely allows for <i>in vivo</i> imaging of dynamic processes such as head regeneration. We directly compared linalool to currently used anesthetics and show its superior performance. Linalool can be a useful tool for tissue manipulation and imaging in <i>Hydra</i> research in both research and teaching contexts.
+<a href="https://dx.plos.org/10.1371/journal.pone.0224221 ">Full article here.</a>
+</details>
    
