@@ -61,13 +61,13 @@ I have worked on a variety of problems, in several different biological systems,
     <summary><b> Body axis formation in <i>Hydra</i></b></summary>
       <a href="https://www.sciencedirect.com/science/article/pii/S000634951930668X">
       <figure>
-      <div style="text-align: center;">
-          <video width="1280" height="720" controls autoplay>
-              <source src="../images/HydraRegeneration.mp4" type="video/mp4">
-              Your browser does not support the video tag.
-          </video>
-          <figcaption>Regenerating <i>Hydra</i> tissue sphere</figcaption>
-          </div>
+        <div style="text-align: center;">
+            <video width="960" height="540" controls autoplay>
+                <source src="../images/HydraRegeneration.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <figcaption>Video: Regenerating <i>Hydra</i> tissue sphere</figcaption>
+        </div>
       </figure>
       </a>
     <i>Hydra</i> can regenerate from tissue spheres formed from tissue pieces excised from the body column of an adult and, from aggregates of cells. These tissue spheres undergo osmotically driven shape oscillations which are characterized by a sawtooth like timecourse of the radius of the sphere over time. Initially the tissue spheres expand isotropically, characterized by high amplitude long period oscillations. But, over time, the tissue sphere becomes more elliposidal and is characterized by low amplitude short period oscillations. This change in shape and oscillation pattern involves symmetry breaking - at some point, the tissue sphere breaks spherical symmetry and a head-tail axis emerges. This symmetry breaking arises from coupling between the Wnt signalling pathway and mechanical properties of the epithelial tissue for the formation of a chemical gradient that defines the head and tail, as well as the formation of an ellipsoidal body from the initially spherical tissue. We used gain-of-function and loss-of-function experiments to show how a transition in the period and amplitude of osmotically driven shape oscillations in regenerating tissue spheres is caused by the formation of an actively regulated mouth structure. This finding challenges the current understanding of the temporal markers of stages during regeneration in <i>Hydra</i> and necessitates a re-examination of the mechanisms driving axis formation in <i>Hydra</i>.
@@ -77,11 +77,20 @@ I have worked on a variety of problems, in several different biological systems,
 
   <details>
   <summary><b>Mechanical control of mouth opening in <i>Hydra</i></b></summary>
+
+   <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2123 ">
+      <figure>
+        <div style="text-align: center;">
+            <video width="960" height="540" controls autoplay>
+                <source src="../images/HydraMouthOpening.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <figcaption>Video: Chemically induced mouth opening in <i>Hydra</i></figcaption>
+        </div>
+      </figure>
+      </a>
   
-    We show how mechanical nearest-neighbor coupling
-can be sufficient to generate long range order over long timescales from underlyingshort range
-stochastic forces. We also show how anharmonic elasticity affects can modulate the long range
-order of the deformation and its timescale in non-intuitive ways.
+    </i><Hydra> Hydra lacks a permanent mouth: its head epithelium is sealed. Upon neuronal activation, a mouth opens at the apex of the head which can exceed the body column diameter in seconds, allowing Hydra to ingest prey larger than itself. While the kinematics of mouth opening are well characterized, the underlying mechanism is unknown. Using a combination of experiments and mathematical modelling, we showed that while the mouth opening is triggered by neuronal signals, nearest neighbor mechanical coupling of cells is sufficient to coordinate it. We also showed that the non-linear elasticity of epithelial tissue makes mouth opening wider and faster, contrary to what one might expect. Using the mouth opening process as a model, we showed that in the absence of long-range chemical or neuronal signals, short-range mechanical coupling is sufficient to produce long-range order in tissue deformations.<a href="https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2123">Full article here.</a>
 
   </details>
 </details>
