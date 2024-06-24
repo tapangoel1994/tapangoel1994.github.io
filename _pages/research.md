@@ -22,12 +22,7 @@ I have worked on a variety of problems, in several different biological systems,
 
 
 
-<!--- <p>The lysis-lysogeny decision is made at the level of individual host cells. It has been shown that the number of phages infecting a cell and host size affect the probability of lysogen formation (Zhang et al. 2021). I am interested in how this cell-level decision is regulated and how it affects the population dynamics of the virus-host system.</p> 
-
-
-<p>At the population level, lysogen abundance is affected by host and resource availability. In polar marine environments, for example, lysogen abundance varies seasonally with higher and lower abundance in winters (low resource availability) and summers (high resource availability) respectively (Brum et al. 2016). To examine the drivers of viral strategies, I use non-linear ordinary differential equations to model the eco-evolutionary dynamics of temperate phages in fluctuating environments with phages of high and low resource availability.</p>
-
-
+<!--- <p>The lysis-lysogeny decision is made at the level of individual host cells. It has been shown that the number of phages infecting a cell and host size affect the probability of lysogen formation (Zhang et al. 2021). I am interested in how this cell-level decision is regulated and how it affects the population dynamics of the virus-host system.</p> <p>At the population level, lysogen abundance is affected by host and resource availability. In polar marine environments, for example, lysogen abundance varies seasonally with higher and lower abundance in winters (low resource availability) and summers (high resource availability) respectively (Brum et al. 2016). To examine the drivers of viral strategies, I use non-linear ordinary differential equations to model the eco-evolutionary dynamics of temperate phages in fluctuating environments with phages of high and low resource availability.</p>
 <p>Induction of lysogens - the process of a lysogen switching back to the lytic cycle - has two consequences: Its bad for the individual lysogen since lysis involves the death of that particular lysogen but, its good for the lysogen population in general because the newly released phage particles can go onto infect new host cells creating new lysogens. So, induction is harmful at the individual level but beneficial at the population level. I am interested in how these conflicting effects at different scales impact community ecology.</p> --->
 
 </details>
@@ -36,7 +31,7 @@ I have worked on a variety of problems, in several different biological systems,
 <details>
   <summary><b> Biomechanics of epithelial tissues in invertebrates </b></summary>
 
-  <p>Mechanical forces play a fundamental role in shaping biological structure and function. They set limits to length and timescales for these processes. In turn, the dynamical response of biochemical signalling pathways and genetic circuits to these mechanical forces create feedback loops that lead to interesting non-linear effects on the stress-strain relationship of biological materials. During my PhD, I studied consequences of these complex feedback loops at the population, organismal and tissue levels over timescales ranging from months to hours to minutes using <i>Hydra</i> and planarians as my model systems.</p>
+  <p>Mechanical forces play a fundamental role in shaping biological structure and function. They set limits to length and timescales for biological processes. In turn, the dynamical response of biochemical signalling pathways and genetic circuits to these mechanical forces create feedback loops that lead to interesting non-linear effects on the stress-strain relationship of biological materials. During my PhD, I studied consequences of these complex feedback loops at the population, organismal and tissue levels over timescales ranging from months to hours to minutes using <i>Hydra</i> and planarians as my model systems. Overall, my research showed how non-linear effects produced by the interplay of bio-chemical signalling, shape changes and mechanical stresses lead to a range of complex patterns and behaviors in biological systems.</p>
 
   <details>
     <summary><b> Mechanics of self-bisection in planarians </b></summary>
@@ -83,20 +78,10 @@ I have worked on a variety of problems, in several different biological systems,
   <details>
   <summary><b>Mechanical control of mouth opening in <i>Hydra</i></b></summary>
   
-    
-<!---xiii
-In chapter ??, we use gain-of-function and loss-of-function experiments to show how a
-transition in the period and amplitude of osmotically driven shape oscillations in regenerating
-Hydra tissue spheres is caused by the formation of an actively regulated mouth structure.
-In chapter 2, we use a combination of experiments and mathematical modelling to study
-the dynamics of mouth opening in Hydra. We show how mechanical nearest-neighbor coupling
-can be sufficient to generate long range order over long timescales from underlying short range
+    We show how mechanical nearest-neighbor coupling
+can be sufficient to generate long range order over long timescales from underlyingshort range
 stochastic forces. We also show how anharmonic elasticity affects can modulate the long range
 order of the deformation and its timescale in non-intuitive ways.
-In appendix ??, we develop the chemical linalool as a powerful, reversible anesthetic that
-can be for imaging Hydra and performing surgical manipulations on them. We characterize the
-activity of the linalool, tested it for its short term and long term health effects on the animals
-and validated its utility in imaging and surgical applications.
-Together, these studies show how non-linear effects produced by the interplay of bio-
-chemical signalling, shape changes and mechanical stresses lead to a range of complex dynamical
-patterns and behaviors in biological systems. --->
+
+  </details>
+</details>
