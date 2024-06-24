@@ -76,25 +76,26 @@ I have worked on a variety of problems, in several different biological systems,
   </details>
 
   <details>
-  <summary><b>Mechanical control of mouth opening in <i>Hydra</i></b></summary>
+    <summary><b>Mechanical control of mouth opening in <i>Hydra</i></b></summary>
 
-   <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2123 ">
-      <figure>
-        <div style="text-align: center;">
-            <video width="960" height="540" controls autoplay>
-                <source src="../images/HydraMouthOpening.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-            <figcaption>Video: Chemically induced mouth opening in <i>Hydra</i></figcaption>
-        </div>
-      </figure>
-      </a>
+     <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2123 ">
+        <figure>
+          <div style="text-align: center;">
+              <video width="960" height="540" controls autoplay>
+                  <source src="../images/HydraMouthOpening.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+              </video>
+              <figcaption>Video: Chemically induced mouth opening in <i>Hydra</i></figcaption>
+          </div>
+        </figure>
+       </a>
   
     <i>Hydra</i> lacks a permanent mouth: its head epithelium is sealed. Upon neuronal activation, a mouth opens at the apex of the head which can exceed the body column diameter in seconds, allowing Hydra to ingest prey larger than itself. While the kinematics of mouth opening are well characterized, the underlying mechanism is unknown. Using a combination of experiments and mathematical modelling, we showed that while the mouth opening is triggered by neuronal signals, nearest neighbor mechanical coupling of cells is sufficient to coordinate it. We also showed that the non-linear elasticity of epithelial tissue makes mouth opening wider and faster, contrary to what one might expect. Using the mouth opening process as a model, we showed that in the absence of long-range chemical or neuronal signals, short-range mechanical coupling is sufficient to produce long-range order in tissue deformations.
     <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2123">Full article here.</a>
     
+  </details>
 </details>
 
- <details>
+<details>
    <summary><b>Linalool as an anesthetic for <i>Hydra</i></b></summary>
    
