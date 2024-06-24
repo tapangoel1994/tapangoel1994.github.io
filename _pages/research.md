@@ -66,9 +66,7 @@ I have worked on a variety of problems, in several different biological systems,
     <summary><b> Body axis formation in <i>Hydra</i></b></summary>
 
     <video width="320" height="240" autoplay>
-      <div style="text-align: center;">
-        <source src="../images/HydraRegeneration.mp4" type="video/mp4" alt="Hydra Regeneration">
-      </div>
+        <source src="../images/HydraRegeneration.mp4" type="video/mp4">
     </video>
 
     <i>Hydra</i> can regenerate from tissue spheres formed from tissue pieces excised from the body column of an adult and, from aggregates of cells. These tissue spheres undergo osmotically driven shape oscillations which are characterized by a sawtooth like timecourse of the radius of the sphere over time. Initially the tissue spheres expand isotropically, characterized by high amplitude long period oscillations. But, over time, the tissue sphere becomes more elliposidal and is characterized by low amplitude short period oscillations. This change in shape and oscillation pattern involves symmetry breaking - at some point, the tissue sphere breaks spherical symmetry and a head-tail axis emerges. This symmetry breaking arises from coupling between the Wnt signalling pathway and mechanical properties of the epithelial tissue for the formation of a chemical gradient that defines the head and tail, as well as the formation of an ellipsoidal body from the initially spherical tissue. We used gain-of-function and loss-of-function experiments to show how a transition in the period and amplitude of osmotically driven shape oscillations in regenerating tissue spheres is caused by the formation of an actively regulated mouth structure. This finding changed our understanding of the temporal markers of key steps during regeneration and axis formation in <i>Hydra</i>
