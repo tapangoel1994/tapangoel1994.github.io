@@ -94,7 +94,6 @@ I have worked on a variety of problems, in several different biological systems,
     <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2123">Full article here.</a>
     
 </details>
-</details>
 
  <details>
    <summary><b>Linalool as an anesthetic for <i>Hydra</i></b></summary>
