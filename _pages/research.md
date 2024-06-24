@@ -40,7 +40,7 @@ I have worked on a variety of problems, in several different biological systems,
     <figure>
       <div style="text-align: center;">
         <img src="../images/PlanarianFission.png" alt="Schematic of planarian fission across three different species" style="width:50%;">
-        <figcaption>(a) Schematics and (b) brightfield images of the fission process in <i>Dugesia japonica</i> (J-planarian), <i>Girardia tigrina</i> (G-planarian) and <i>Schmidtea mediterranea</i> (S-planarian).</figcaption>
+        <figcaption>Figure: (a) Schematics and (b) brightfield images of the fission process in <i>Dugesia japonica</i> (J-planarian), <i>Girardia tigrina</i> (G-planarian) and <i>Schmidtea mediterranea</i> (S-planarian).</figcaption>
       </div>
     </figure>
     
@@ -56,8 +56,11 @@ I have worked on a variety of problems, in several different biological systems,
       <br>
       <a href="https://doi.org/10.1088/1478-3975/ac2f29 ">Full article here.</a>
     </p>
-
+  </details>
+  
   <details>
+    <summary><b> Body axis formation in <i>Hydra</i></b></summary>
+    
     <summary><b>
 <!---xiii
 In chapter ??, we use gain-of-function and loss-of-function experiments to show how a
