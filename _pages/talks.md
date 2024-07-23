@@ -4,6 +4,10 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+
+***Eco-Evolutionary Dynamics of Temperate Phages in Periodically Changing Environments*** (Poster)\
+Qlife summer school : Quantitative Phage-Bacteria Dynamics Across Scales, July 8 - 12, 2024
+
 ***Mechanical Control and Coordination of Mouth Opening in Hydra*** (Talk)\
 Cnidofest Zoom Seminar Series, June 19, 2024
 
