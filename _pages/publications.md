@@ -7,6 +7,8 @@ author_profile: true
 
 You can find the complete list of my publication on [google scholar](https://scholar.google.com/citations?user=b4GGa8EAAAAJ&hl=en).
 
+- ***Eco-evolutionary Dynamics of Temperate Phages in Periodic Environments***\
+  **Tapan Goel**, Stephen J. Beckett, Joshua S. Weitz. _bioRxiv_. (2024)
 - ***Non-linear Elasticity and Short-range Mechanical Coupling Govern the Rate and Symmetry of Mouth Opening in Hydra***\
   **Tapan Goel**, Ellen M. Adams, April L. Bialas, Cassidy M. Tran, Trevor Rowe, Sara Martin, Maia Chandler, Johanna Schubert, Patrick H. Diamond, Eva-Maria S. Collins. _Proceedings of the Royal Society B_. (2024)
 - ***Mechano-Chemical Coupling in Hydra Regeneration and Patterning***\
