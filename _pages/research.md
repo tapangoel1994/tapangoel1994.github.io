@@ -9,7 +9,9 @@ author_profile: true
 <!--- header: --->
 <!--- overlay_image: galaxy2.jpg --->
 
-I have worked on a variety of problems, in several different biological systems, under the broad umbrella of non-linear dynamics and complex systems. As an undergrad, I worked in a theoretical ecology lab, where I used mathematical models to study collective animal movement. I then transitioned to working on biomechanics of epithelial tissues using a combination of theory, experiments and confocal imaging during my PhD. I am not actively working in this area right now but look forward to getting back into it at some point in the future. I have since made the jump back to ecology and evolution and am currently working on theoretical models of ecology and evolution of temperate phages.
+I have worked on a variety of problems, in several different biological systems, under the broad umbrella of non-linear dynamics and complex systems. As an undergrad, I worked in a theoretical ecology lab, where I used mathematical models to study collective animal movement. I then transitioned to working on biomechanics of epithelial tissues using a combination of theory, experiments and confocal imaging during my PhD. I am not actively working in this area right now but look forward to getting back into it at some point in the future. I have since made the jump back to ecology and evolution and am currently working on theoretical models of ecology and evolution of temperate phages.\
+
+Click on the headers below to know more about specific projects.
 <details>
   <summary><b>Ecology and evolution of temperate phages</b></summary>
 
