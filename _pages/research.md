@@ -33,7 +33,7 @@ Click on the headers below to know more about my earlier projects.
 
   <p>Mechanical forces play a fundamental role in shaping biological structure and function. They set limits to length and timescales for biological processes. In turn, the dynamical response of biochemical signalling pathways and genetic circuits to these mechanical forces create feedback loops that lead to interesting non-linear effects on the stress-strain relationship of biological materials. During my PhD, I studied consequences of these complex feedback loops at the population, organismal and tissue levels over timescales ranging from months to hours to minutes using <i>Hydra</i> and planarians as my model systems. Overall, my research showed how non-linear effects produced by the interplay of bio-chemical signalling, shape changes and mechanical stresses lead to a range of complex patterns and behaviors in biological systems.</p>
 
-<p style = "text-indent: 1em">
+<p style = "padding-left:1em">
   <details>
     <summary><b> Mechanics of self-bisection in planarians </b></summary>
     <a href="https://doi.org/10.1088/1478-3975/ac2f29 ">
