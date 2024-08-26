@@ -14,8 +14,19 @@ I have worked on a variety of problems, in several different biological systems,
 <p>When we think of phages (viruses that exclusively infect bacteria), we typically only think of the lytic life cycle: The virus enters the host cell, hijacks the host machinery to make copies of itself, eventually kills the host and releases its virus offspring that go onto infect other hosts. This picture is true for phages that are obligately lytic. However, temperate phages, in addition to the lytic cycle, can undergo a lysogenic life cycle: they enter the host but instead of hijacking the host machinery, the viral genetic material integrates with that of the host and stays dormant until some internal or external trigger switches it back into the lytic cycle. In this case, the virus replicates when the host cell divides and replicates its own genome. While the lytic life cycle involves antagonism between the phage and its host, lysogeny is mutualistic - the reproductive success of the phage depends on the reproductive success of the host. Thus, temperate phages have a complicated relationship with their hosts which leads to interesting effects all the way from the molecular to the community level, across timescales ranging from virus-host encounter rates to evolutionary timescales. My current research focuses on the ecological and evolutionary consequences of this complicated relationship between temperate phages and their hosts. To do so, I use mathematical models that bridge scales - from cells to populations to communities. I am trying to answer the following questions:</p>
 
 <ol>
-  <li>How do temperate phages persist and evolve in periodically changing envrionments</li>
+  <li><details><summary><b>How do temperate phages persist and evolve in periodically changing envrionments</b></summary></li>
+    <a href="https://www.biorxiv.org/content/10.1101/2024.07.29.604806v1">
+    <figure>
+      <div style="text-align: center;">
+        <img src="../images/SerialPassage.png" alt="Model schematic" style="width:50%;">
+        <figcaption>Figure: Schematic of the serial passage model: (a) Fresh nutrients and susceptible cells are supplied in each growth cycle. Following the growth cycle, the cells (and virions) are filtered and added to a fresh batch of hosts and nutrients. (b) The filtration step can isolate virions alone (e.g., via size-dependent filtering), lysogens alone (e.g., via the use of phage-encoded antibiotic selection markers), or a mixture of the two..</figcaption>
+      </div>
+    </figure>
+    </a>
   <p style="padding-left: 1em"> Phages encounter periodically changing environments, including diurnal and seasonal changes as well as boom-bust dynamics in the form of blooms. These changes can lead to opposing selection pressures acting over different timescales. We used a nonlinear system of ordinary differential equation to simulate periodically-forced dynamics. We showed how conflicts can arise between strategies in the near-term that may favor lysis and strategies in the long-term that may favor lysogeny. In doing so, we identified a wide range of conditions in which temperate strategies can outperform obligately lytic or lysogenic strategies. Finally, we demonstrated that temperate strategies can mitigate against the potential local extinction of viruses in stochastically fluctuating environments, providing further evidence of the eco-evolutionary benefits of being temperate. </p>
+  <br>
+    <a href="https://www.biorxiv.org/content/10.1101/2024.07.29.604806v1">Preprint here.</a>
+  </details>
   
   <li>How does multiplicty of infection affect the lysis-lysogeny decision</li>
   <li>How does lysogeny lead to the formation of coalitions between viruses and their hosts</li>
