@@ -15,7 +15,7 @@ I have worked on a variety of problems, in several different biological systems,
 
 <ol>
   <li>How do temperate phages persist and evolve in periodically changing envrionments</li>
-  <p style="padding-left: 2em"> Phages encounter periodically changing environments, including diurnal and seasonal changes as well as boom-bust dynamics in the form of blooms. These changes can lead to opposing selection pressures acting over different timescales. We used a nonlinear system of ordinary differential equation to simulate periodically-forced dynamics. We showed how conflicts can arise between strategies in the near-term that may favor lysis and strategies in the long-term that may favor lysogeny. In doing so, we identified a wide range of conditions in which temperate strategies can outperform obligately lytic or lysogenic strategies. Finally, we demonstrated that temperate strategies can mitigate against the potential local extinction of viruses in stochastically fluctuating environments, providing further evidence of the eco-evolutionary benefits of being temperate. </p>
+  <p style="padding-left: 1em"> Phages encounter periodically changing environments, including diurnal and seasonal changes as well as boom-bust dynamics in the form of blooms. These changes can lead to opposing selection pressures acting over different timescales. We used a nonlinear system of ordinary differential equation to simulate periodically-forced dynamics. We showed how conflicts can arise between strategies in the near-term that may favor lysis and strategies in the long-term that may favor lysogeny. In doing so, we identified a wide range of conditions in which temperate strategies can outperform obligately lytic or lysogenic strategies. Finally, we demonstrated that temperate strategies can mitigate against the potential local extinction of viruses in stochastically fluctuating environments, providing further evidence of the eco-evolutionary benefits of being temperate. </p>
   
   <li>How does multiplicty of infection affect the lysis-lysogeny decision</li>
   <li>How does lysogeny lead to the formation of coalitions between viruses and their hosts</li>
@@ -33,7 +33,7 @@ Click on the headers below to know more about my earlier projects.
 
   <p>Mechanical forces play a fundamental role in shaping biological structure and function. They set limits to length and timescales for biological processes. In turn, the dynamical response of biochemical signalling pathways and genetic circuits to these mechanical forces create feedback loops that lead to interesting non-linear effects on the stress-strain relationship of biological materials. During my PhD, I studied consequences of these complex feedback loops at the population, organismal and tissue levels over timescales ranging from months to hours to minutes using <i>Hydra</i> and planarians as my model systems. Overall, my research showed how non-linear effects produced by the interplay of bio-chemical signalling, shape changes and mechanical stresses lead to a range of complex patterns and behaviors in biological systems.</p>
 
-<p style = "padding-left:1em">
+<p style="padding-left: 1em">
   <details>
     <summary><b> Mechanics of self-bisection in planarians </b></summary>
     <a href="https://doi.org/10.1088/1478-3975/ac2f29 ">
