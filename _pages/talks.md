@@ -5,6 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
+***Eco-Evolutionary Dynamics of Temperate Phages in Fluctuating Environments*** (Poster)\
+Jacques Monod Conference - Virus evolution: the mutualism-antagonism continuum of virus-virus interactions, October 14 - 18, 2024
+
 ***Eco-Evolutionary Dynamics of Temperate Phages in Periodically Changing Environments*** (Poster)\
 Qlife summer school : Quantitative Phage-Bacteria Dynamics Across Scales, July 8 - 12, 2024
 
