@@ -5,6 +5,12 @@ permalink: /presentations/
 author_profile: true
 ---
 
+***Why be temperate? Sometimes it's better to “live” and let live!*** (Invited talk)\
+Simons Centre for the Study of Living Machines, National Centre for Biological Sciences, November 12, 2024 
+
+***Why be temperate? Sometimes it's better to “live” and let live!*** (Invited talk)\
+Center for Ecological Sciences, Indian Institute of Science, Bangalore, November 11, 2024
+
 ***Eco-Evolutionary Dynamics of Temperate Phages in Fluctuating Environments*** (Poster)\
 Jacques Monod Conference - Virus evolution: the mutualism-antagonism continuum of virus-virus interactions, October 14 - 18, 2024
 
