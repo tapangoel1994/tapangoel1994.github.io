@@ -7,6 +7,8 @@ author_profile: true
 
 You can find the complete list of my publication on [google scholar](https://scholar.google.com/citations?user=b4GGa8EAAAAJ&hl=en).
 
+- ***You can do it! Using published undergraduate research on Hydra mouth opening to train undergraduates***\
+  Stephen Hackler,  **Tapan Goel**, Jonah Pacis, Eva-Maria Collins. _bioRxiv_. (2024)
 - ***Eco-evolutionary Dynamics of Temperate Phages in Periodic Environments***\
   **Tapan Goel**, Stephen J. Beckett, Joshua S. Weitz. _bioRxiv_. (2024)
 - ***Non-linear Elasticity and Short-range Mechanical Coupling Govern the Rate and Symmetry of Mouth Opening in Hydra***\
