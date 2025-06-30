@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ***Why be temperate? Sometimes it's better to “live” and let live!*** (Invited talk)\
+Quantitative Phage-Bacteria Dynamics Across Scales, University of Maryland College Park, June 26, 2025
+
+***Why be temperate? Sometimes it's better to “live” and let live!*** (Invited talk)\
 Simons Centre for the Study of Living Machines, National Centre for Biological Sciences, November 12, 2024 
 
 ***Why be temperate? Sometimes it's better to “live” and let live!*** (Invited talk)\
