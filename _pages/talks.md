@@ -4,6 +4,8 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+***Eco-Evolutionary Dynamics of Temperate Phages in Fluctuating Environments*** (Poster)\
+Gordon Research Conference on Microbial Population Biology, Proctor Academy, July 5 - July 11, 2025
 
 ***Why be temperate? Sometimes it's better to “live” and let live!*** (Invited talk)\
 Quantitative Phage-Bacteria Dynamics Across Scales, University of Maryland College Park, June 26, 2025
