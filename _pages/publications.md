@@ -8,7 +8,7 @@ author_profile: true
 You can find the complete list of my publication on [google scholar](https://scholar.google.com/citations?user=b4GGa8EAAAAJ&hl=en).
 
 - ***Using Published Undergraduate Biomechanics Research on Hydra Mouth Opening to Train Undergraduates***\
-  Stephen Hackler,  **Tapan Goel**, Jonah Pacis, Eva-Maria Collins. _The Bophysicist_. (2025)
+  Stephen Hackler,  **Tapan Goel**, Jonah Pacis, Eva-Maria Collins. _The Biophysicist_. (2025)
 - ***Eco-evolutionary Dynamics of Temperate Phages in Periodic Environments***\
   **Tapan Goel**, Stephen J. Beckett, Joshua S. Weitz. _Virus Evolution_. (2025)
 - ***Non-linear Elasticity and Short-range Mechanical Coupling Govern the Rate and Symmetry of Mouth Opening in Hydra***\
