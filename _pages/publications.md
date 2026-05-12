@@ -31,10 +31,11 @@ You can find the complete list of my publication on [google scholar](https://sch
 - ***Mouth Function Determines the Shape Oscillation Pattern in Regenerating Hydra Tissue Spheres***\
   Rui Wang, **Tapan Goel**, Kate Khazoyan, Ziad Sabry, Heng J Quan, Patrick H Diamond, Eva-Maria S Collins. _Biophysical Journal_. (2019)
 
-  ### Preprints
-  - ***Interpreting breakthrough infections given assortative mixing of partially vaccinate populations***\
+### Preprints
+
+- ***Interpreting breakthrough infections given assortative mixing of partially vaccinate populations***\
     Mallory J. Harris, Akash Arani, **Tapan Goel**, Kejia Zhang, Stephen J. Beckett, Nathan C. Lo, Jonathan Dushoff, Joshua S. Weitz. _medRxiv_. (2026)
-  - ***Prophage induction states drive structural and synetgistic outcomes in marine bacterial biofilms***\
+- ***Prophage induction states drive structural and synetgistic outcomes in marine bacterial biofilms***\
     Matthew J. Tuttle, Gabi Steinbach, **Tapan Goel**, Joshua S. Weitz, Alison Buchan. _bioRxiv_. (2025)
 
 
