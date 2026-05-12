@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Instructor of Record"
 collection: teaching
-type: "Workshop"
+type: "Undergrad/grad course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Maryland College Park"
+date: Spring 2026
+location: "College Park, MD, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
+[Comment]: # (Heading 1)
 ======
