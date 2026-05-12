@@ -4,6 +4,12 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+***Phenotypic plasticity in the life history traits of temperate phage*** (Talk)\
+Chesapeake Aquatic Viral Ecology Meeting, Institute of Marine and Environmental Technology, April 24, 2025
+
+***Variation in cases per case is conserved across parameters of the SIR model*** (Talk)\
+MIDAS network annual meeting, Bethesda, November 6, 2025
+
 ***Eco-Evolutionary Dynamics of Temperate Phages in Fluctuating Environments*** (Poster)\
 Gordon Research Conference on Microbial Population Biology, Proctor Academy, July 5 - July 11, 2025
 
