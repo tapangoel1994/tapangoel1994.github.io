@@ -7,14 +7,14 @@ author_profile: true
 
 You can find the complete list of my publication on [google scholar](https://scholar.google.com/citations?user=b4GGa8EAAAAJ&hl=en).
 
-# Pedagogical resources
+## Pedagogical resources
 
 - ***Using Published Undergraduate Biomechanics Research on Hydra Mouth Opening to Train Undergraduates***\
   Stephen Hackler,  **Tapan Goel**, Jonah Pacis, Eva-Maria Collins. _The Biophysicist_. (2025)
 - ***Quantifying Planarian Behavior as an Introduction to Object Tracking and Signal Processing***\
   Nicole C Stowell, **Tapan Goel**, Vir Shetty, Jocelyne Noveral, Eva-Maria S Collins. _The Biophysicist_. (2021)
 
-# Research articles
+## Research articles
 
 - ***The Adaptive Plasticity of Temperate Phage*** $\lambda$\
   Sylvain Gandon, **Tapan Goel**, Joshua S. Weitz, Sebastien Lion, _Virus Evolution_. (2026)  
@@ -31,7 +31,7 @@ You can find the complete list of my publication on [google scholar](https://sch
 - ***Mouth Function Determines the Shape Oscillation Pattern in Regenerating Hydra Tissue Spheres***\
   Rui Wang, **Tapan Goel**, Kate Khazoyan, Ziad Sabry, Heng J Quan, Patrick H Diamond, Eva-Maria S Collins. _Biophysical Journal_. (2019)
 
-# Preprints
+## Preprints
 
 - ***Interpreting breakthrough infections given assortative mixing of partially vaccinate populations***\
     Mallory J. Harris, Akash Arani, **Tapan Goel**, Kejia Zhang, Stephen J. Beckett, Nathan C. Lo, Jonathan Dushoff, Joshua S. Weitz. _medRxiv_. (2026)
