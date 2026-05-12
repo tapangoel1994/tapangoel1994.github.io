@@ -16,7 +16,7 @@ You can find the complete list of my publication on [google scholar](https://sch
 
 ### Research articles
 
-- ***The Adaptive Plasticity of Temperate Phage $\lambda$***\
+- ***The Adaptive Plasticity of Temperate Phage*** $\lambda$\
   Sylvain Gandon, **Tapan Goel**, Joshua S. Weitz, Sebastien Lion, _Virus Evolution_. (2026)  
 - ***Eco-evolutionary Dynamics of Temperate Phages in Periodic Environments***\
   **Tapan Goel**, Stephen J. Beckett, Joshua S. Weitz. _Virus Evolution_. (2025)
