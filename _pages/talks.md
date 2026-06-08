@@ -4,6 +4,9 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+***Eco-Evolutionary Dynamics of Temperate Phages in Fluctuating Environments*** (Poster)\
+Ecology and Evolution of Infectious Disease Conference, Virginia Tech, June 1 - June 5, 2026
+
 ***Phenotypic plasticity in the life history traits of temperate phage*** (Talk)\
 Chesapeake Aquatic Viral Ecology Meeting, Institute of Marine and Environmental Technology, April 24, 2025
 
