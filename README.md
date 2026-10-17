@@ -4,7 +4,7 @@
 
 Hi there! 
 Welcome, this is my academic website.The website is based on my friend [Abhijeet Anand](https://abhi0395.github.io)'s website who in turn based it on [academicpages](https://github.com/academicpages/academicpages.github.io) template. Below are some details on licensing and how to use this template (copied from academicpages).
-
+Redeploy
 ## Details
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
